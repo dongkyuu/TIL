@@ -1,3 +1,6 @@
 bootcamp/data/
-bootcamp/*.png/
+bootcamp/*.png
+*.h5
+
 python/*.txt
+
