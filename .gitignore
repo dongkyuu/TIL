@@ -1,4 +1,6 @@
 bootcamp/data/
+analytics_exercise/data
+
 bootcamp/*.png
 *.h5
 
